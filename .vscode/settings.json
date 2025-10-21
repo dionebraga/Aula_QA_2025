@@ -1,0 +1,18 @@
+{
+  "cSpell.language": "pt,pt_BR,en",
+  "cSpell.enabled": true,
+  "cSpell.words": [
+    "Caique",
+    "dados_pessoais",
+    "dicionário",
+    "frutas",
+    "lista_frutas",
+    "maçã",
+    "Tuplas"
+],
+  "editor.formatOnSave": false,
+  "python.linting.enabled": true,
+  "python.linting.pylintEnabled": true,
+  "editor.tabSize": 4,
+  "editor.insertSpaces": true
+}

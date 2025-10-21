@@ -1,0 +1,6 @@
+valor = float(input("Digite um valor: "))
+print("Dobro:", valor * 2)
+print("Triplo:", valor * 3)
+print("Quadrado:", valor ** 2)
+print("Raiz quadrada:", valor ** 0.5)
+print("Raiz cúbica:", valor ** (1/3))
